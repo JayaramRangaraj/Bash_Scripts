@@ -65,8 +65,7 @@ processC        12.7
 - `ps`: Lists processes with resource usage.
 - `awk`: Used for text processing.
 ### Project URL
-
-    https://roadmap.sh/projects/server-stats
+https://roadmap.sh/projects/server-stats
 
 
 

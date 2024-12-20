@@ -12,7 +12,7 @@ This Bash script provides an overview of system statistics, including CPU usage,
 
 ## Usage
 
-1. Copy the script into a file, e.g., `system_stats.sh`.
+1. Copy the script into a file, e.g., `Script.sh`.
 2. Make the script executable using:
    ```bash
    chmod +x Script.sh

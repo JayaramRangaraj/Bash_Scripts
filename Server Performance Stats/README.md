@@ -15,11 +15,11 @@ This Bash script provides an overview of system statistics, including CPU usage,
 1. Copy the script into a file, e.g., `system_stats.sh`.
 2. Make the script executable using:
    ```bash
-   chmod +x system_stats.sh
+   chmod +x Script.sh
    ```
 3. Run the script:
    ```bash
-   ./system_stats.sh
+   ./Script.sh
    ```
 
 ## Output

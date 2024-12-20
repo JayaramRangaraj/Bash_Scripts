@@ -1,3 +1,5 @@
+### Project URL https://roadmap.sh/projects/server-stats
+
 # System Stats Script
 
 This Bash script provides an overview of system statistics, including CPU usage, memory usage, system uptime, and the top resource-consuming processes. It is designed to give a quick snapshot of the system's health and performance.

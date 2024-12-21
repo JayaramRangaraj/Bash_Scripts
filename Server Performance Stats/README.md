@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/server-stats 
+
 # System Stats Script
 
 This Bash script provides an overview of system statistics, including CPU usage, memory usage, system uptime, and the top resource-consuming processes. It is designed to give a quick snapshot of the system's health and performance.
@@ -12,14 +14,14 @@ This Bash script provides an overview of system statistics, including CPU usage,
 
 ## Usage
 
-1. Copy the script into a file, e.g., `system_stats.sh`.
+1. Copy the script into a file, e.g., `Script.sh`.
 2. Make the script executable using:
    ```bash
-   chmod +x system_stats.sh
+   chmod +x Script.sh
    ```
 3. Run the script:
    ```bash
-   ./system_stats.sh
+   ./Script.sh
    ```
 
 ## Output
@@ -65,9 +67,4 @@ processC        12.7
 - `ps`: Lists processes with resource usage.
 - `awk`: Used for text processing.
 ### Project URL
-
-    https://roadmap.sh/projects/server-stats
-
-
-
-
+https://roadmap.sh/projects/server-stats

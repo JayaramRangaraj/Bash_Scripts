@@ -2,7 +2,7 @@
 
 
 
-# Log Archive Script
+# Log Archive Script(https://roadmap.sh/projects/log-archive-tool)
 
 This script is used to archive log directories (e.g., `/var/log/apache2`) into a compressed `.tar.gz` file. The archive is stored in the user's home directory under the `log_archive/` folder.
 

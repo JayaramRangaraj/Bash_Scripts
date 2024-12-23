@@ -56,17 +56,17 @@ grep
 
 Running the Script
 
-1. Save the script as log_analyzer.sh.
+1. Save the script as Script.sh.
 
 
 2. Make the script executable:
 
-chmod +x log_analyzer.sh
+chmod +x Script.sh
 
 
 3. Execute the script with the log file as an argument:
 
-./log_analyzer.sh access.log
+./Script.sh access.log
 
 
 

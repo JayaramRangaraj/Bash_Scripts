@@ -1,5 +1,17 @@
 #!/bin/bash
 
+################################################################################
+#                       Server Performance Script                              #
+#                                                                              #
+# This script provide the information about system details , memory detials    #
+# and cpu, memory consuming details                                            #
+#                                                                              #
+#                                                                              #
+# Change History                                                               #
+# 11/11/2019  Jayaram Rangaraj    					       #
+#									       #
+################################################################################
+
 # CPU Usage
 echo "---------------------------"
 echo "        SYSTEM STATS       "
